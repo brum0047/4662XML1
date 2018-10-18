@@ -1,0 +1,7 @@
+table { font-family: Arial Black; }
+
+table { background-color: #D3D3D3; }
+
+titles {display:table-row; color:blue;}
+
+incident {display: table-row;}

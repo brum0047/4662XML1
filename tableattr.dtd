@@ -1,0 +1,7 @@
+
+<!ELEMENT body (incident)>
+<!ELEMENT incident (date, time, address, type)
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT type (#PCDATA)>

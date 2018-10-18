@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<!DOCTYPE table SYSTEM "tableattr.dtd">
+<?xml-stylesheet href="style.css"?>
+
+<table>
+	<titles>
+		<column>Time</column>
+		<column>Date</column>
+		<column>Address</column>
+		<column>Type</column>
+	</titles>
+
+	<incident>
+		<time>19:35</time>
+		<date>11/10/2018</date>
+		<address>510 Washington Ave SE</address>
+		<type>ROBPER</type>
+	</incident>
+	<incident>
+		<time>18:49</time>
+		<date>11/12/2018</date>
+		<address>2221 University AVE SE</address>
+		<type>ARSON</type>
+	</incident>
+</table>
