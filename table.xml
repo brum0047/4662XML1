@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding= "UTF-8"?>
 <!DOCTYPE table SYSTEM "tableattr.dtd">
-<?xml-stylesheet href="style.css"?>
 
-<table>
-	<titles>
-		<column>Time</column>
-		<column>Date</column>
-		<column>Address</column>
-		<column>Type</column>
-	</titles>
-
+<crimereport>
 	<incident>
 		<time>19:35</time>
 		<date>11/10/2018</date>
 		<address>510 Washington Ave SE</address>
-		<type>ROBPER</type>
+		<crimetype>ROBPER</crimetype>
 	</incident>
 	<incident>
 		<time>18:49</time>
 		<date>11/12/2018</date>
 		<address>2221 University AVE SE</address>
-		<type>ARSON</type>
+		<crimetype>ARSON</crimetype>
 	</incident>
-</table>
+	<incident>
+		<time>09:56</time>
+		<date>11/13/2018</date>
+		<address>433 CHURCH ST SE</address>
+		<crimetype>BIKE</crimetype>
+	</incident>
+	<incident>
+		<time>11:37</time>
+		<date>11/15/2018</date>
+		<address>1520 University AVE SE</address>
+		<crimetype>THEFT</crimetype>
+	</incident>
+</crimereport>
